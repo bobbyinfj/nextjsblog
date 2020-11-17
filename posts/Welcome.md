@@ -5,7 +5,6 @@ blogCategory: Featured
 slug: welcome-to-my-portfolio-website
 postedOn: October 19 2020
 author: Robert Nakano
-blogImage: bob-mulch-IMG_20201010_134902.jpg
 abstract: Hello Everyone. This website is created as a showcase for my data science and web development projects. I plan to update this page to showcase my new work. Thank you for reading and stay tuned!
 methods: [Node.js React.js]
 ---          
