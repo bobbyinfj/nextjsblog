@@ -1,1 +1,3 @@
-This is a starter template for [Learn Next.js](https://nextjs.org/learn).
+This is a project to create a Portfolio Website/Blog utilizing Next.js
+
+The code from the first commit is based off the starter tutorial: [Learn Next.js](https://nextjs.org/learn).
