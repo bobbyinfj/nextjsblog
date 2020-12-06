@@ -13,7 +13,7 @@ export default function Layout({ children, home }) {
         <link rel="icon" href="/favicon.ico" />
         <meta
           name="description"
-          content="Data Science and Web Development Portfolio for Robert Naknao"
+          content="Data Science and Web Development Portfolio for Robert Nakano"
         />
         <meta
           property="og:image"
