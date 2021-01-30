@@ -25,3 +25,7 @@ img {
   max-width: 100%;
   display: block;
 }
+
+article h2, h3 {
+  margin-bottom: 0;
+}
