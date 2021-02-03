@@ -1,5 +1,7 @@
 This is a project to create a Portfolio Website/Blog utilizing Next.js
 
+You can view this project at [RobertNakano.com](https://RobertNakano.com/)
+
 The code from the first commit is based off the starter tutorial: [Learn Next.js](https://nextjs.org/learn).
 
 Installation
