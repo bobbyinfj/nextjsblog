@@ -11,7 +11,7 @@ blogImage: meal-kit-nutrition-info.jpg
 
 <h2>Summary</h2> 
 This project was a blog post on <a href="https://pickakit.com">Pick a Kit</a>, <i><a href='https://pickakit.com/blog/healthy-meal-kits'>Are meal kits healthy?</a></i>, aimed at helping to answer the question "How healthy are meal kits?" 
-<p>My colleague, Aaron, and I worked together to collect and analyze data from various meal kit services. Our decided included a total of 10 meal kit services and 9,750 unique meals.</p>
+<p>My colleague, Aaron, and I worked together to collect and analyze data from various meal kit services. Our dataset included a total of 10 meal kit services and 9,750 unique meals.</p>
 
 <p> My assignment here was to find a compelling way to visualize the differences in nutrition information for various meal kit services. After a few iterations, I came up with an interactive Tableau chart.</p>
 
