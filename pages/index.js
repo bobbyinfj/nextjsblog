@@ -26,15 +26,16 @@ export default function Home({ allPostsData }) {
         <ul className={utilStyles.list}>
           {allPostsData.map(({ id, date, title, blogImage }) => (
             <li className={utilStyles.listItem} key={id}>
-              <Link href={`/posts/${id}`}>
-                <a>
-                  {title}
-                  <br />
-                  <small className={utilStyles.lightText}>
-                    <Date dateString={date} />
-                  </small>
-                  {blogImage && <img src={`/images/${blogImage}`}/>}
-                </a>
+              <Link 
+                href={`/posts/${id}`}
+                className={utilStyles.listItemLink}
+              >
+                {title}
+                <br />
+                <small className={utilStyles.lightText}>
+                  <Date dateString={date} />
+                </small>
+                {blogImage && <img src={`/images/${blogImage}`}/>}
               </Link>
             </li>
           ))}

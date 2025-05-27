@@ -50,3 +50,9 @@
 .lightText {
   color: #999;
 }
+
+.listItemLink {
+  color: inherit;
+  text-decoration: none;
+  display: block;
+}
