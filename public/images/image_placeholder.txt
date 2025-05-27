@@ -1,0 +1,1 @@
+Add an image named "crunchy-garden.jpg" to this directory to be displayed with the Crunchy Garden blog post.
