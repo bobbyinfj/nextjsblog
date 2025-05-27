@@ -7,7 +7,7 @@ postedOn: May 27 2025
 author: Robert Nakano
 abstract: A personal look at Crunchy Garden, our experimental project aimed at building a digital community for gardening enthusiasts to share knowledge, explore sustainable practices, and connect with others interested in growing their own food.
 methods: [Community, Gardening, Sustainability]
-blogImage: 'crunchy-garden.jpg'
+blogImage: 'crunchygarden-nextjs.png'
 ---
 
 # Crunchy Garden: Our Journey Building a Digital Space for Gardeners
